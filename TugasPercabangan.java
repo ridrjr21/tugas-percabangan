@@ -2,9 +2,8 @@ import java.util.Scanner;
 
 public class TugasPercabangan{
     public static void main(String[] args){
-        int gajiPokok = 5000000;
         int lamaKerja, jumlahJamKerja;
-        float totalGaji=0;
+        float totalGaji;
         
 
         Scanner scanner = new Scanner(System.in);
