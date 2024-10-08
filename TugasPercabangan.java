@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class TugasPercabangan{
     public static void main(String[] args){
         int lamaKerja, jumlahJamKerja;
-        float totalGaji;
+        double totalGaji;
         
 
         Scanner scanner = new Scanner(System.in);
